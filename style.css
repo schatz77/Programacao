@@ -5,13 +5,42 @@ body{
 img{
     width: 100%;
 }
+
+.titulo-principal{
+    padding: 20px;
+}
+.titulo-cemtralizado{
+    text-align: center;
+}
 h1, p{
     text-align: center;
 }
 
 em{
-    color: red;
+    color: rgb(230, 25, 10);
 }
 #missao{
-    font-size: 21px;
+    font-size: 20px;
+}
+
+.itens {
+    font-size: italic;
+}
+.principal{
+    background-color: #cccccc;
+    padding: 30px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20px;
+    margin-right: 15%;
+}
+.beneficios{
+    background-color: #cccccc;
+    padding: 20px;
+}
+
+.img-beneficios{
+    width: 50%;
 }
